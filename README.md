@@ -1,9 +1,9 @@
 ### AUTHOR : RISHI SHARMA  7th Rank on Public Learderboard | 12th Rank on Private Leaderboard
  ## Username : rishi34
 
-[Private Learderboard](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/pvt_lb/)
+[Private Learderboard](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/pvt_lb)
 
-[Public Learderboard](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/lb/)
+[Public Learderboard](https://datahack.analyticsvidhya.com/contest/practice-problem-intel-scene-classification-challe/lb)
 
 ![Competition banner](images/banner.png)
 
