@@ -167,9 +167,9 @@ Class activation mapping (CAM)
 3. Keep the train file in input folder as it is, I have added one column named `valid` which shows which images are validation images.
 
 4. I have used 4 model architectures,
- - To run ResNet 50, go to `./resnet_50_progressive_resizing/` and run [resnet-50.ipynb](resnet_50_progressive_resizing/resnet-50.ipynb) file.
+ - To run ResNet 50, go to `./resnet_50/` and run [resnet-50.ipynb](resnet_50/resnet-50.ipynb) file.
 
- - To run ResNet 50 places 365 model, go to `./resnet50_places_progressive_resizing/`  and run [resnet-50-places.ipynb](resnet50_places_progressive_resizing/resnet-50-places.ipynb) file.
+ - To run ResNet 50 places 365 model, go to `./resnet50/`  and run [resnet-50-places.ipynb](resnet50/resnet-50-places.ipynb) file.
 
  - To run ResNet 101, go to `./resnet_101/` and run [resnet-101.ipynb](resnet_101/resnet-101.ipynb) file.
 
